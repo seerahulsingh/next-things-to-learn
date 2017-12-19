@@ -13,6 +13,7 @@
 11. react-native
 
 12. react ecosystem
+```
   a. babel
   b. webpack, npm, yeoman, bower, commonjs
   c. thunk
@@ -21,10 +22,11 @@
   f. redux form
   g. reselect
   h. immutablejs
-
+```
 13. d3.js
 
 14. javascript testing
+```
   a. Provide a test environment (Mocha, Jasmine, Jest, Karma)
   b. Provide a testing structure (Mocha, Jasmine, Jest, Cucumber)
   c. Provide assertions functions (Chai, Jasmine, Jest, Unexpected)
@@ -35,7 +37,7 @@
   h. Provide a browser or browser-like environment with a control on their scenarios execution (Protractor, Nightwatch, Phantom, Casper)
   
   https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a
-
+```
 15. MERN
 16. mongodb
 17. shell script
