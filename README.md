@@ -9,7 +9,7 @@
 7. docker
 8. graphql, apollo-graphql
 9. meteorjs
-10. react PureCompnent, HigherOrderComponent, react-router-4
+10. react PureCompnent, HigherOrderComponent, react-router-4, state-less-components
 11. react-native
 
 12. react ecosystem
