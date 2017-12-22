@@ -46,4 +46,5 @@
 20. functional programming
 21. modern sdlc's
 22. testing strategies, TDD is dead now
-23. AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS aaaaannnnnd AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS...............
+23. Terraform (infrastructure as a code)
+24. AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS aaaaannnnnd AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS AWS...............
